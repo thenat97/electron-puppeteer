@@ -9,7 +9,7 @@
   "author": "thenat",
   "license": "ISC",
   "dependencies": {
-    "electron": "^7.1.2",
+    "electron": "^13.6.6",
     "puppeteer": "^2.0.0"
   }
 }
